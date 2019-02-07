@@ -11,7 +11,7 @@
 |To Grow Faster, Hit Pause — and Ask These Questions from Stripe’s COO | startup,leadership | http://firstround.com/review/to-grow-faster-hit-pause-and-ask-these-questions-from-stripes-coo ||
 | Airbnb migration to SOA | soa,airbnb,monolith | https://www.infoq.com/presentations/airbnb-soa-migration ||
 | Discovery vs Delivery - Marty Cagan | product,pm | https://svpg.com/discovery-vs-delivery ||
-| Beyond Lean and Agile - Marty Cagan | product,lean,agile | https://www.youtube.com/watch?v=7LYLhxb8Vwc ||
+| Beyond Lean and Agile - Marty Cagan | product,lean,agile | https://www.youtube.com/watch?v=7LYLhxb8Vwc | https://github.com/adrienDog/notes/blob/master/24012017-Marty_Cagan-Beyond_Lean_And_Agile.md |
 
 ## Engineering leadership
 |title | tags | link | notes

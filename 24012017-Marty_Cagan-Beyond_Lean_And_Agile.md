@@ -2,6 +2,7 @@
 https://www.youtube.com/watch?v=7LYLhxb8Vwc
 
 ## Theme 1 - Address major risks upfront
+
 ### Value risk
 - Touches **demand**: Usually not that hard to determine
 - What is hard: is team's solution good enough that it causes people to switch! It has to be demonstrably better (10x)

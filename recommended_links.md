@@ -1,7 +1,6 @@
 # Links
 
 ## Engineering
-https://edgecoders.com/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312
 |title | tags | link | notes  | star
 | -----|------|------| ------ | ------
 |Mistakes I made as a beginner programmer | programming,software,engineer | https://edgecoders.com/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312 |**Read it all**|⭐️|

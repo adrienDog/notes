@@ -4,6 +4,7 @@
 |title | tags | link | notes  | star
 | -----|------|------| ------ | ------
 |Mistakes I made as a beginner programmer | programming,software,engineer | https://edgecoders.com/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312 |**Read it all**|⭐️|
+|Just say no to more end-2-end | programming,software,engineer | https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html ||⭐️|
 
 ## Product
 |title | tags | link | notes  | star

@@ -28,4 +28,7 @@
 | Patreon Engineering progression framework | patreon,grow,grid | https://levels.patreon.com |||
 
 
-## Fullstack and DevOps
+## Team, prioritisation, decision making
+|title | tags | link | notes  | star
+| -----|------|------| ------ | ------
+| Choose best decision making model based on context  | team,prioritisation | https://thedecider.app/start |Good to read all the models, adds vocabulary and taxonomy||

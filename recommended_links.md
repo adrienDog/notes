@@ -3,9 +3,10 @@
 ## Engineering
 |title | tags | link | notes  | star
 | -----|------|------| ------ | ------
-|Mistakes I made as a beginner programmer | programming,software,engineer | https://edgecoders.com/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312 |**Read it all**|⭐️|
+|Mistakes I made as a beginner programmer | programming,software,engineer | https://edgecoders.com/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312 |**Read it all**| ⭐️|
 |Just say no to more end-2-end | programming,software,engineer | https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html ||⭐️|
 |The practical test pyramid | testing,software,engineer | https://martinfowler.com/articles/practical-test-pyramid.html | |⭐️|
+| Event storming with a splash of DDD | DDD,discovery,collaboration | https://spring.io/blog/2018/04/11/event-storming-and-spring-with-a-splash-of-ddd | **Read it all** | ⭐️ |
 
 ## Product
 |title | tags | link | notes  | star

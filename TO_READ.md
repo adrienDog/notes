@@ -1,0 +1,13 @@
+- https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html
+- https://www.citusdata.com/blog/2016/11/29/event-aggregation-at-scale-with-postgresql/
+- https://cloud.google.com/blog/products/gcp/how-wepay-uses-stream-analytics-for-real-time-fraud-detection-using-gcp-and-apache-kafka
+- https://blog.arkency.com/2017/04/reliable-notifications-between-two-systems/
+- https://blog.arkency.com/2016/12/techniques-for-dealing-with-uncertainity/
+- https://blog.christianposta.com/microservices/the-hardest-part-about-microservices-data/
+- https://blog.christianposta.com/microservices/why-microservices-should-be-event-driven-autonomy-vs-authority/
+- https://blog.christianposta.com/microservices/3-easy-things-to-do-to-make-your-microservices-more-resilient/
+- https://ivanursul.com/microservices-interaction-apache-kafka
+- https://www.slideshare.net/ConfluentInc/capture-the-streams-of-database-changes
+- https://blogs.oracle.com/darcy/mixing-in-an-enum, https://dzone.com/articles/java-extensible-enum-with-interface
+- https://monzo.com/blog/2019/01/14/crowdfunding-technology-backend-architecture/, https://monzo.com/blog/2019/01/15/crowdfunding-technology-testing/, https://monzo.com/blog/2019/01/16/crowdfunding-technology-systems/
+- https://www.youtube.com/watch?v=7LYLhxb8Vwc

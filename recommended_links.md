@@ -19,11 +19,12 @@
 | Prioritizing “Non-Feature” Work and Continuous Improvement - John Cutler | product,engineering,agile | https://hackernoon.com/prioritizing-non-feature-work-and-continuous-improvement-bad2a612d860 | - *our instincts often make the problem worse AND more opaque.* <br> - *The key value in continuous improvement is addressing the value and value throughput parts of the equation. There is very real value in things like refactoring, restructuring, tooling, better customer research, more instrumentation, debt workdown, inviting customers into the design process, etc. It literally could be the MOST IMPORTANT thing you might be able to work on. This is why arbitrary % allocations or side-projects, or. “1 item per sprint” guidelines sort of miss the mark.* <br> - *Transparency is key, and transparency requires psychological safety and a deep desire to work across boundaries and silos. You’d can’t fix/talk about things you cannot sense. Speaking of sensing…* |⭐️|
 |Progression at Monzo | startup,leadership | https://progression.monzo.com https://github.com/monzo/progression-framework |Read more in depth|⭐️|
 
-## Engineering leadership
+## Leadership
 |title | tags | link | notes  | star
 | -----|------|------| ------ | ------
 | Monzo Engineering progression framework | monzo,grow,grid | https://eng-progression.monzo.com |||
 | Patreon Engineering progression framework | patreon,grow,grid | https://levels.patreon.com |||
+| Amazon Leadership Principles | amazon,leadership,principles | https://www.amazon.jobs/en/principles ||⭐|
 
 
 ## Team, prioritisation, decision making

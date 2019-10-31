@@ -17,7 +17,9 @@
 | Discovery vs Delivery - Marty Cagan | product,pm | https://svpg.com/discovery-vs-delivery ||⭐️|
 | Beyond Lean and Agile - Marty Cagan | product,lean,agile | https://www.youtube.com/watch?v=7LYLhxb8Vwc | https://github.com/adrienDog/notes/blob/master/24012017-Marty_Cagan-Beyond_Lean_And_Agile.md ||
 | Prioritizing “Non-Feature” Work and Continuous Improvement - John Cutler | product,engineering,agile | https://hackernoon.com/prioritizing-non-feature-work-and-continuous-improvement-bad2a612d860 | - *our instincts often make the problem worse AND more opaque.* <br> - *The key value in continuous improvement is addressing the value and value throughput parts of the equation. There is very real value in things like refactoring, restructuring, tooling, better customer research, more instrumentation, debt workdown, inviting customers into the design process, etc. It literally could be the MOST IMPORTANT thing you might be able to work on. This is why arbitrary % allocations or side-projects, or. “1 item per sprint” guidelines sort of miss the mark.* <br> - *Transparency is key, and transparency requires psychological safety and a deep desire to work across boundaries and silos. You’d can’t fix/talk about things you cannot sense. Speaking of sensing…* |⭐️|
+|Your Mission Statement Is Not Your Company Culture | startup,culture | https://marker.medium.com/your-mission-statement-is-not-your-company-culture-c5980c1b530c |"Your culture is not the values you list on the wall. It’s not what you say at an all-hands. It’s not even what you believe. It’s what you do. What you do is who you are."|⭐️|
 |Progression at Monzo | startup,leadership | https://progression.monzo.com https://github.com/monzo/progression-framework |Read more in depth|⭐️|
+|The Four Big Risks | product | https://svpg.com/four-big-risks/ |value, usability, feasibility, business viability|⭐️|
 
 ## Leadership
 |title | tags | link | notes  | star

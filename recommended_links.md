@@ -35,3 +35,4 @@
 |Just say no to more end-2-end | programming,software,engineer | https://testing.googleblog.com/2015/04/just-say-no-to-more-end-to-end-tests.html ||⭐️|
 |The practical test pyramid | testing,software,engineer | https://martinfowler.com/articles/practical-test-pyramid.html | |⭐️|
 | Event storming with a splash of DDD | DDD,discovery,collaboration | https://spring.io/blog/2018/04/11/event-storming-and-spring-with-a-splash-of-ddd | **Read it all** | ⭐️ |
+| PostgreSQL roles and users setup for production ready | postgresql,database | https://aws.amazon.com/blogs/database/managing-postgresql-users-and-roles/ | Very clear and guided ||
